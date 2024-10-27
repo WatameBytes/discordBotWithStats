@@ -30,8 +30,14 @@ You can use an .env file to store environment variables securely (or store them 
 AUTHORIZED_USER_ID=<YOUR_USER_ID>
 TOKEN=<DISCORD_BOT_TOKEN>
 ```
-### How to Use
-![howToUse](https://github.com/user-attachments/assets/f25f39ee-6c18-4378-93f6-9dc4686c76c1)
+## How to Use
+To update the bots nickname with the latest election statistics, send a Direct Message (DM) to the bot in the following format:
+
+update <server_id_that_the_bot_is_in>
+
+Replace `<server_id_that_the_bot_is_in>` with the actual ID of the server where the bot is active.
+
+![How to Use](https://github.com/user-attachments/assets/f25f39ee-6c18-4378-93f6-9dc4686c76c1)
 
 ## Notes
 

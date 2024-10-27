@@ -24,12 +24,15 @@ To invite the bot to a server:
    - Change Nickname
 
 ### Environment Variables
-I used PyCharm to store my environment variables, but you can create an `.env` file if you prefer. Never share your token with anyone. The `.env` file should include:
+You can use an .env file to store environment variables securely (or store them within your IDE if supported). Never share your token with anyone. The .env file should include:
 
 ```plaintext
 AUTHORIZED_USER_ID=<YOUR_USER_ID>
 TOKEN=<DISCORD_BOT_TOKEN>
 ```
+### How to Use
+![howToUse](https://github.com/user-attachments/assets/f25f39ee-6c18-4378-93f6-9dc4686c76c1)
+
 ## Notes
 
 As of October 27, 2024, this program scrapes data successfully. However, future changes to the website's layout or structure may prevent successful scraping.
